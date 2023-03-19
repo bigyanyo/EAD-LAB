@@ -1,7 +1,7 @@
 # Enterprise Application Development (Assignment)
 
-- [Assignments](https://github.com/bigyanyo/EAD-LAB/tree/main/assignments)
-    - [Assignment 1 - SMS](https://github.com/bigyanyo/EAD-LAB/tree/main/assignments/assignment1)
+- [Assignments](https://github.com/bigyanyo/EAD-LAB/tree/main/assignment)
+    - [Assignment 1 - SMS](https://github.com/bigyanyo/EAD-LAB/tree/main/assignment/assignment1)
 
 # Enterprise Application Development (Lab Works)
 
